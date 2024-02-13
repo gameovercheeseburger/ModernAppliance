@@ -1,0 +1,14 @@
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\bin\Debug\net8.0\Group8ClassInheritance.exe
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\bin\Debug\net8.0\Group8ClassInheritance.deps.json
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\bin\Debug\net8.0\Group8ClassInheritance.runtimeconfig.json
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\bin\Debug\net8.0\Group8ClassInheritance.dll
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\bin\Debug\net8.0\Group8ClassInheritance.pdb
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.AssemblyInfoInputs.cache
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.AssemblyInfo.cs
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.dll
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\refint\Group8ClassInheritance.dll
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.pdb
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\Group8ClassInheritance.genruntimeconfig.cache
+C:\Users\pjurg\source\repos\Group8ClassInheritance\Group8ClassInheritance\obj\Debug\net8.0\ref\Group8ClassInheritance.dll
